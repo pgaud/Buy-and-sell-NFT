@@ -1,8 +1,8 @@
 # Description 
 
-It will create a decentralized website where you can buy, sell and Mint NFT(non fungible tokens) over ICP. You would be able to view NFT which other users have listed for sell. I have clubed this project along with the token project so that you It will use own made tokens to buy and sell the NFT and it will have the record of all your earnings and credited balances.
+It will create a decentralized website where you can buy, sell, and Mint NFT(non-fungible tokens) over ICP. You would be able to view NFT which other users have listed for sell. I have clubed this project along with the token project so that you will use your own made tokens to buy and sell the NFT and it will have the record of all your earnings and credited balances.
 
-(P.S I haven't used databse as the the whole structure is built over IC including the token part)
+(P.S I haven't used any database as the the whole structure is built over IC including the token part)
 
 ## Tech stack
 
