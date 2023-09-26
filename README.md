@@ -11,6 +11,7 @@ It will create a decentralized website where you can buy, sell and Mint NFT(non 
 
 ## Demo
 
+[screen-capture.webm](https://github.com/pgaud/Buy-and-sell-NFT/assets/43934424/24412368-167e-4033-a4eb-a6dd5ad64822)
 
 ## To Install and Run the Project
 
